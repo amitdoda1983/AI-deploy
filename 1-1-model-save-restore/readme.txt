@@ -4,3 +4,5 @@ This folder contains:-
 3. final_model.sav : file that contains the learnt model
 4. model-save-restore.png : class notes file
 5. Advertising.csv : file for exercise, build a linear regression model, use the money spent on advertisements on TV, radio, and newspaper to predict the sales.
+6. model_save_load_exercise.ipynb : code to solve the exercise problem
+7. final_model_exercise.sav : file that contains the learnt model of the exercise problem
